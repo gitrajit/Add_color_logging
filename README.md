@@ -20,3 +20,4 @@ Tue 15 May 2018 08:56:49 ERROR    Some error message
 Tue 15 May 2018 08:56:49 WARNING  Some warning message
 
 ```
+![log](https://user-images.githubusercontent.com/20657146/40047628-9bc90f88-584d-11e8-8c84-16f380fa58a5.PNG)

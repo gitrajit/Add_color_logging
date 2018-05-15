@@ -18,4 +18,5 @@ abc@control$ python test.py
 Tue 15 May 2018 08:56:49 INFO     Some info message
 Tue 15 May 2018 08:56:49 ERROR    Some error message
 Tue 15 May 2018 08:56:49 WARNING  Some warning message
+
 ```
